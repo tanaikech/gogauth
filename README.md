@@ -1,6 +1,7 @@
 gogauth
 ====
 
+[![Build Status](https://travis-ci.org/tanaikech/gogauth.svg?branch=master)](https://travis-ci.org/tanaikech/gogauth)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENCE)
 
 
